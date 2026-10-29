@@ -1,0 +1,13 @@
+date,description,category,platform,amount
+2026-10-01,picked thrift run lot,inventory,ebay,-32.50
+2026-10-04,sold Wonder bag,fees,ebay,45.00
+2026-10-04,item cost Wonder bag,inventory,ebay,-12.00
+2026-10-07,mail stamps,supplies,offline,-4.90
+2026-10-12,sold hoodie,inventory,poshmark,30.00
+2026-10-14,hoodie item cost,inventory,poshmark,-9.00
+2026-10-18,sold paperback novel,media,ebay,8.50
+2026-10-19,paperback cost,media,ebay,-0.50
+2026-10-23,sold stereo,inventory,ebay,75.00
+2026-10-24,stereo cost,inventory,ebay,-20.00
+2026-10-27,mail stamps,supplies,offline,-4.90
+2026-10-28,box + bubble wrap,supplies,offline,-6.35
